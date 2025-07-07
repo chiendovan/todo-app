@@ -25,7 +25,9 @@ Todo App là một ứng dụng di động đơn giản nhưng đầy đủ ch�
 ### Video demo
 
 
-Uploading Simulator Screen Recording - iPhone 15 Pro Max - 2025-07-07 at 11.19.41.mp4…
+
+https://github.com/user-attachments/assets/4a44916f-9ef5-4eca-abe9-1ee9ee7dd79f
+
 
 
 
