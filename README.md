@@ -22,19 +22,12 @@ Todo App là một ứng dụng di động đơn giản nhưng đầy đủ ch�
 
 ## 🚀 Demo
 
-### Screenshots
-```
-┌─────────────────────┐
-│  📝 My Todo App     │
-│  Quản lý công việc  │
-├─────────────────────┤
-│ ✅ Doctor Appoint..│🗑️│
-│ ⭕ Meeting at Sch..│🗑️│
-├─────────────────────┤
-│ [Nhập công việc...] │
-│              [+Thêm]│
-└─────────────────────┘
-```
+### Video demo
+
+
+Uploading Simulator Screen Recording - iPhone 15 Pro Max - 2025-07-07 at 11.19.41.mp4…
+
+
 
 ## 🛠️ Cài đặt
 
